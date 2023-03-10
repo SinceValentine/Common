@@ -1,0 +1,22 @@
+{
+  "name": "Common",
+  "version": "0.1.0",
+  "summary": "A short description of Common.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/git_token/Common",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "git_token": "shanshao21@163.com"
+  },
+  "source": {
+    "git": "https://github.com/git_token/Common.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "Common/Classes/**/*"
+}
