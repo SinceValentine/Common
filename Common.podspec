@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'Common'
-  s.version          = '0.1.3'
-  s.summary          = 'A short description of Common.'
+  s.version          = '0.1.4'
+  s.summary          = '呱唧呱唧和国际化国际化呱唧呱唧化工厂发'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,8 +18,8 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
-                       DESC
+防火规范健康和国际化赶紧回家很快就很厉害；看看就好了吉林科技拉开距离看接口刘继坤
+  DESC
 
   s.homepage         = 'https://github.com/SinceValentine/Common'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
