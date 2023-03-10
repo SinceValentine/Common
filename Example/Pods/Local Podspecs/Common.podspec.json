@@ -1,9 +1,9 @@
 {
   "name": "Common",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A short description of Common.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/git_token/Common",
+  "homepage": "https://github.com/SinceValentine/Common",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,11 +12,12 @@
     "git_token": "shanshao21@163.com"
   },
   "source": {
-    "git": "https://github.com/git_token/Common.git",
-    "tag": "0.1.0"
+    "git": "git@github.com:SinceValentine/Common.git",
+    "tag": "0.1.1"
   },
   "platforms": {
     "ios": "10.0"
   },
-  "source_files": "Common/Classes/**/*"
+  "source_files": "Common/Classes/**/*",
+  "public_header_files": "Common/Classes/**/*.h"
 }
