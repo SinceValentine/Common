@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'Common'
-  s.version          = '0.1.4'
+  s.version          = '0.1.5'
   s.summary          = '呱唧呱唧和国际化国际化呱唧呱唧化工厂发'
 
 # This description is used to generate tags and improve search results.
@@ -36,7 +36,7 @@ Pod::Spec.new do |s|
   #   'Common' => ['Common/Assets/*.png']
   # }
 
-   s.public_header_files = 'Common/Classes/**/*.h'
+   s.public_header_files = 'Common/Classes/HomeViewController.h'
   # s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
 end
